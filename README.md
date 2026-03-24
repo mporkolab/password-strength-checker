@@ -21,7 +21,7 @@ This project was built to bridge the gap between **Computer Science algorithms**
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/password-strength-simulator.git](https://github.com/your-username/password-strength-simulator.git)
+   git clone (https://github.com/mporkolab/password-strength-checker.git)
 2. Unzip the included rockyou.txt.zip file to the root directory of this project.
 3. Run the application
    ```bash
