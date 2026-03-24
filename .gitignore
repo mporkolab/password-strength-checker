@@ -1,3 +1,5 @@
+# Own project files and IDE folders
+rockyou.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
